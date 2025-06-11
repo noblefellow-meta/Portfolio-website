@@ -17,6 +17,5 @@ An interactive analytics dashboard that provides insights into retail sales perf
 - Excel
 - SQL (PostgreSQL)
 - Power BI / Tableau
-- Canva, Photoshop, CorelDraw
 
 ## Installation
